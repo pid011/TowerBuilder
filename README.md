@@ -1,4 +1,4 @@
-# tower-builder
+# TowerBuilder
 
 탑쌓기 게임
 
